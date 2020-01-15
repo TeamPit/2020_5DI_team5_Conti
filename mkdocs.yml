@@ -2,7 +2,7 @@ site_name: 2020_5DI_Team5
 nav:
     - 'Project Charter': 'vspc.md'
     - 'Software Requirements Specification': 'srs.md'
-    - 'Software Project Management plan': 'spmp.md'
+    - 'Software Project Management Plan': 'spmp.md'
     - 'Elevator Statement': 'elevatorSpeech.md'
     
 theme:
