@@ -3,7 +3,7 @@ nav:
     - 'Project Charter': 'vspc.md'
     - 'Software Requirements Specification': 'srs.md'
     - 'Software Project Management Plan': 'spmp.md'
-    - 'Elevator Statement': 'elevatorSpeech.md'
+    - 'Project Canvas': 'elevatorSpeech.md'
     
 theme:
     name: readthedocs
