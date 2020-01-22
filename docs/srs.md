@@ -12,45 +12,6 @@ Table of Content
 
  ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAABN0AAAACCAIAAADjFz01AAAAK0lEQVRYhe3OSQ0AIAwAMEjw73bHczL2oFXQG9kHAAAAlrzI2j4AAADwrwHEUwXL08N7EgAAAABJRU5ErkJggg==)
 
-1. Introduction_[pag. 2]_1 Overview
-
-1.2 Goals
-
-1.3 Definitions
-
-1. General Design Constraints_[pag__. 3]_1 OnGo Application Environment
-
-2.2 User Characteristics
-
-2.3 Mandated Constrains
-
-1. Nonfunctional Requirements _[pag. 4]_1 Operational Requirements
-
-3.2 Performance Requirements
-
-3.3 Security Requirements
-
-3.4 Documentation and Training
-
-3.5 ​External Interface
-
-3.5.1 User Interface
-
-3.5.2 Software Interface
-
-1. Functional Requirements _[pag. 6]_1 Required Features
-
-4.1.1 Use Case 1 - Create a Folder
-
-4.1.2 Use Case 2 - Tranfer a file to the origin
-
-4.1.3 Use Case 3 - Require a file from the origin
-
-4.2 Optional Features
-
-4.2.1 Use Case 1 - Send a command from a CLI
-
-4.2.2 Use Case 2 - Create a file with content
 
 
 
@@ -60,7 +21,7 @@ Table of Content
 
 ​Pag. 1
 
-1. Introduction
+##1. Introduction
 
  ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAABN0AAAACCAIAAADjFz01AAAAK0lEQVRYhe3OSQ0AIAwAMEjw73bHczL2oFXQG9kHAAAAlrzI2j4AAADwrwHEUwXL08N7EgAAAABJRU5ErkJggg==)
 
@@ -149,7 +110,7 @@ The whole system has to work via HTTP connection (https). This is mandatory beca
 
 ​Pag. 3
 
-3. Nonfunctional Requirements
+##3. Nonfunctional Requirements
 
  ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAABN0AAAACCAIAAADjFz01AAAAK0lEQVRYhe3OSQ0AIAwAMEjw73bHczL2oFXQG9kHAAAAlrzI2j4AAADwrwHEUwXL08N7EgAAAABJRU5ErkJggg==)
 
@@ -247,7 +208,7 @@ Pag. 5
 
 
 
-4. Functional Requirements
+##4. Functional Requirements
 
  ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAABN0AAAACCAIAAADjFz01AAAAK0lEQVRYhe3OSQ0AIAwAMEjw73bHczL2oFXQG9kHAAAAlrzI2j4AAADwrwHEUwXL08N7EgAAAABJRU5ErkJggg==)
 
