@@ -6,15 +6,6 @@
 | --- | --- | --- |
 | Zambelli Enrico | 13/05/2020 | User Guide |
 
-**Team Members**
-
-Balestra Diego
-
-Conti Pietro
-
-Lazri Klaudio
-
-Zambelli Enrico
 
 
 
