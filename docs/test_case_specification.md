@@ -1,33 +1,19 @@
 # Test Case Specification
 
-# Team 5
+## EG Service
 
-February 5, 2020
+| Author | Date | Description |
+| --- | --- | --- |
+|  Lazri, Balestra, Conti, Zambelli| 13/05/2020 | Architecture Document |
 
-Prepared by: Balestra, Conti, Lazri, Zambelli
 
-# **Table of Contents**
 
-**1 Introduction 2**
-
-**2 Test Cases: Application 2**
-
-**3 Test Cases: Proxy Server 3**
-
-**Revision History**
-
-| **Version** | **Date** | **Name** | **Description** |
-| --- | --- | --- | --- |
-| 1 | 2/02/20 | Balestra, Conti, Lazri, Zambelli | Initial Document |
-| 2 | 12/02/20 | Balestra, Conti, Lazri, Zambelli | Updated test case numbers to eliminate typographical errors |
-
-#
-# Introduction
+# 1 Introduction
 
 This document provides the test cases to be carried out for the Eg Service website. Each item to be tested is represented by an individual test case. Each case details the input and expected outputs.
 
-#
-# Test Cases: Application
+
+# 2 Test Cases: Application
 
 | Test ID | 2.1 |
 | --- | --- |
@@ -93,8 +79,8 @@ This document provides the test cases to be carried out for the Eg Service websi
 | Test Actions | 1. Go to the Eg Service website2. Select Sing in button3. Go to Articles |
 | Expected Results | System displays all the articles |
 
-#
-# Test Cases: Proxy Server
+
+# 2 Test Cases: Proxy Server
 
 | Test ID | 3.1 |
 | --- | --- |
