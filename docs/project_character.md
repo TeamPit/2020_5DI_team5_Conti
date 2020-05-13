@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | Klaudio Lazri | 13/05/2020 | Project Charter |
 
-**PROJECT TITLE: EG Service**
+**Project Title: EG Service**
 
 **Start Date** : 04/12/2019 **End Date:** 30/03/2020
 
