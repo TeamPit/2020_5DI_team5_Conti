@@ -3,7 +3,7 @@
 
 | Author | Date | Description |
 | --- | --- | --- |
-| Klaudio Lazri | 13/05/2020 | System Documentation |
+| Enrico Zambelli | 13/05/2020 | System Documentation |
 
 
 ## 1 Introduction
