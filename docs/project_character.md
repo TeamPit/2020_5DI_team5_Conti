@@ -1,13 +1,16 @@
-**PROJECT CHARTER**
+# PROJECT CHARTER
+
+## EG Service
+
+| Author | Date | Description |
+| --- | --- | --- |
+| Klaudio Lazri | 13/05/2020 | Architecture Document |
 
 **PROJECT TITLE: EG Service**
 
-
 **Start Date** : 04/12/2019 **End Date:** 30/03/2020
 
-**Project Sponsor:** Sponsor
-
-**Customer:** ITS G.Marconi Institute
+**Customer:** ITS G.Marconi Institute==>Klaudio Lazri, Diego Blestra, Conti Pietro, Zambelli Enrico
 
 **Users:** G.Marconi Students
 
