@@ -4,7 +4,7 @@
 
 | Author | Date | Description |
 | --- | --- | --- |
-| Klaudio Lazri | 13/05/2020 | Architecture Document |
+| Pietro Conti | 13/05/2020 | Architecture Document |
 
 **The fully functional test system is delivered by**  **april/may**  **2020.**
 
