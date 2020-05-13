@@ -4,7 +4,7 @@
 
 | Author | Date | Description |
 | --- | --- | --- |
-| Pietro Conti | 13/05/2020 | Architecture Document |
+| Pietro Conti | 13/05/2020 | Success Criteria |
 
 **The fully functional test system is delivered by**  **april/may**  **2020.**
 
