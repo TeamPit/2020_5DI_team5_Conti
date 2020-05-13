@@ -1,16 +1,16 @@
 # Memo Of Understanding
 
-# Team 5
+## EG Service
 
-February 6, 2020
+| Author | Date | Description |
+| --- | --- | --- |
+| Klaudio Lazri, Diego Balestra, Conti Pietro, Zambelli Enrico | 13/05/2020 | Memo Of Understanding |
 
-Prepared by: Balestra, Conti, Lazri, Zambelli
-
-# **Purpose**
+## Purpose
 
 The purpose of this Memorandum of Understanding (MOU) is to serve as a written understanding between Federal Communications Commission and the Federal Agency offering services. This MOU documents the responsibilities of the principal organizations involved in the deployment of System Name being deployed.
 
-# **Objectives, Scope, and Major Activities**
+## Objectives, Scope, and Major Activities
 
 - **Objective:** The objective of System being deployed is to provide integrated automation of the list system functions and who will use the system. System being deployed will provide for some information to be made accessible to list groups within the FCC/other agency who will access data.
 
@@ -18,7 +18,7 @@ The purpose of this Memorandum of Understanding (MOU) is to serve as a written u
 
 - **Major Activities:** The major activities of this system will be to management the system which is implemented in accordance with Federal Agency offering services requirements. The egService system custodian will ensure that the system, designing and engineering concept, architectural and interface baselines and interoperability at all levels is consistent with egService policies, including the System Development Life Cycle and change management processes.
 
-# **Responsibilities**
+## Responsibilities
 
 As the principal representative for the System being deployed functional area, the Program/Custodian Office name is the proponent for the System being deployed and is ultimately responsible for review and validation of the system documentation and proposed system modifications. In addition, the Program/Custodian Office name will:
 
@@ -27,7 +27,7 @@ As the principal representative for the System being deployed functional area, t
 3. Ensure that required of a strategic functional plan for system name are developed;
 4. Ensure compliance with all applicable Federal mandates with regard to computer-based system usage;
 
-# **Services**
+## Services
 
 All services provided under this MOU shall be highlighted in this section, including but not limited to:
 
@@ -44,13 +44,13 @@ All services provided under this MOU shall be highlighted in this section, inclu
 - Contingency and Disaster Recovery plans will adequately document system/data recovery efforts;
 - Systems risk analysis, computer security certification and accreditation, and security test and evaluation overview, if applicable.
 
-# **Duration and Amendments of the MOU**
+## Duration and Amendments of the MOU
 
 This MOU will be reviewed annually from the date signed. The System Program Manager will be responsible for this review.
 
 By signing this page, all parties agree to ensure compliance with applicable Federal and respective agency policies, mandates and instructions that will ensure the continued availability, confidentiality and integrity of information being process by or through this system.
 
-# **Federal Communications Commission**
+## Federal Communications Commission
 
 **Project Manager**
 
