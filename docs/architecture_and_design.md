@@ -2,6 +2,10 @@
 
 ##EG Service
 
+| Author | Date | Description |
+| --- | --- | --- |
+| Klaudio Lazri | 13/05/2020 | Architecture Document |
+
 #1.0 Introduction
 
 The EG Service document is designed to illustrate the high-level architecture systems managed to design and implement our application. The document contains a general view of the system hierarchy, logical views of the system components and a view of the system communication process.
