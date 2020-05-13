@@ -4,7 +4,7 @@
 
 | Author | Date | Description |
 | --- | --- | --- |
-|  Lazri, Balestra, Conti, Zambelli| 13/05/2020 | Architecture Document |
+|  Lazri, Balestra, Conti, Zambelli| 13/05/2020 | Test Case Specification |
 
 
 
