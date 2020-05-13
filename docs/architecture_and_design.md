@@ -1,5 +1,6 @@
 #Architecture Document
-##EG Service**
+
+##EG Service
 
 #1.0 Introduction
 
