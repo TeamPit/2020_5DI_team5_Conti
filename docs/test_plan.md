@@ -4,7 +4,7 @@
 
 | Author | Date | Description |
 | --- | --- | --- |
-| Klaudio Lazri | 13/05/2020 | Architecture Document |
+|  Lazri, Conti, Balestra, Zambelli | 13/05/2020 | Test Paln |
 # 1 Introduction
 
 This document outlines the test plan for the Eg Service websit. As outlined in the project Requirements Document, this system needs to provide every person interested in being able to view ,buy any type of overhead door, door, window and much more.
