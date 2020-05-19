@@ -11,6 +11,7 @@ nav:
     - 'Test Case specification': 'test_case_specification.md'
     - 'Test Plan': 'test_plan.md'
     - 'User guide': 'user_guide.md'
+    - 'DPA model': 'DPA Model.md'
     
 theme:
     name: readthedocs
